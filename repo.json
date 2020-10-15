@@ -1,0 +1,205 @@
+{
+    "version": "1.0",
+    "sourceName": "1111软件源",
+    "sourceAuthor": "GBox Official",
+    "sourceLinkTitle": "主页",
+    "sourceLinkUrl": "http://gbox.run",
+    "sourceImage": "http://gbox.run/Public/images/source.png",
+    "sourceUpdateTime": "2020-09-20T12:26:00+0800",
+    "sourceDescription": "GBox官方软件源",
+    "appCategories": [
+        "工具",
+        "模拟器"
+    ],
+    "appRepositories": [
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-08-14T10:10:00+0800",
+            "appName": "GBox",
+            "appVersion": "2.9.5",
+            "appImage": "https://s1.ax1x.com/2020/04/02/G8OPxA.png",
+            "appPlist": "https://gbox.lanzous.com/iqCvGflz4vg",
+            "appDescription": "8月14日最新版(仅限VIP，‼️30块TF兑换码的用户请勿下载‼️)，签名此App后，点击安装，闪退即代表升级成功，更新内容:\n1. 完美支持在iOS 14b4系统签名和安装\n2. 支持证书导出\n3. 支持在文件夹中导入证书"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-09-11T18:05:00+0800",
+            "appName": "Odyssey",
+            "appVersion": "1.0.2",
+            "appImage": "https://s1.ax1x.com/2020/07/16/UDmD3Q.png",
+            "appPlist": "https://gbox.lanzoui.com/iusO2gj4m2d",
+            "appDescription": "奥德赛正式版，已解决闪退问题，需自行签名安装"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-09-02T14:30:00+0800",
+            "appName": "Odyssey",
+            "appVersion": "1.0.1",
+            "appImage": "https://s1.ax1x.com/2020/07/16/UDmD3Q.png",
+            "appPlist": "https://gbox.lanzous.com/icFqRga8zsh",
+            "appDescription": "奥德赛正式版，已解决闪退问题，需自行签名安装"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-07-28T18:36:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "5.3.1",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzous.com/iNiVDf2iygf",
+            "appDescription": "iOS 越狱工具，支持iOS 11.0 - 13.5"
+        },
+
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-07-09T13:56:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "5.2.1",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzous.com/iYic7eg6t1g",
+            "appDescription": " Fixes include fixing jailbreak errors on A7 and A8 devices. (iOS and tvOS)"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-04-26T21:50:00+0800",
+            "appName": "签名测试",
+            "appVersion": "1.0",
+            "appImage": "https://s1.ax1x.com/2020/04/26/J2LKW4.png",
+            "appPackage": "http://gbox.run/Public/apps/Test.ipa",
+            "appDescription": "在GBox证书管理页面选择其中一本证书，先签名此包再安装，如果能正常打开，则证明签名流程和证书有效"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-09-20T12:08:00+0800",
+            "appName": "AppCake",
+            "appVersion": "7.0.0",
+            "appImage": "https://s1.ax1x.com/2020/09/20/woHjZq.png",
+            "appPlist": "https://gbox.lanzoui.com/i6Bw0gs4api",
+            "appDescription": "国外第三方Apps商店"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-09-20T12:20:00+0800",
+            "appName": "ipa下载器",
+            "appVersion": "1.0",
+            "appImage": "https://s1.ax1x.com/2020/09/20/woLYRS.png",
+            "appPlist": "https://gbox.lanzoui.com/iik9mgs90oh",
+            "appDescription": "ipa提取工具"
+        },
+        
+        {
+            "hide": true,
+            "appType": "SHAREING",
+            "appCateIndex": 0,
+            "appUpdateTime": "2019-12-26T09:30:00+0800",
+            "appName": "Price Tag",
+            "appVersion": "2.3.1",
+            "appImage": "https://bbsimg.joyslink.com/2018/04/19/14443676_246x0w.jpg",
+            "appPlist": "https://gbox.lanzous.com/i89vukd",
+            "appDescription": "iOS13不支持, 无须签名直接安装，然后在App Store登录此账号即可：\n(切勿在系统设置登录，否则有可能被锁机)\nshare1313@163.com\nLaoapp922"
+        },
+        
+        {
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2019-12-30T10:30:00+0800",
+            "appName": "Filza",
+            "appVersion": "3.6",
+            "appImage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Apps/filza/filza.png",
+            "appPlist": "https://gbox.lanzous.com/i8cic2h",
+            "appDescription": "强大的文件管理器，免越狱访问系统全路径，支持iOS11 ~ iOS12，部分机型打开闪退"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-09-15T15:26:00+0800",
+            "appName": "小鸡模拟器",
+            "appVersion": "1.5.9",
+            "appImage": "https://s1.ax1x.com/2020/09/20/woqk9S.png",
+            "appPackage": "http://dl.xiaoji001.com/download/ios/xiaoji_org.ipa",
+            "appDescription": "需要iOS 11或以上系统"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-07-12T10:35:00+0800",
+            "appName": "RetroArch",
+            "appVersion": "1.8.9",
+            "appImage": "https://s1.ax1x.com/2020/07/12/U1xnkq.png",
+            "appPackage": "https://buildbot.libretro.com/stable/1.8.9/apple/ios/RetroArch.ipa",
+            "appDescription": "各种掌机模拟器集合"
+        },
+        
+        {
+            "appType": "SHAREING",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-07-16T17:45:00+0800",
+            "appName": "Dolpin",
+            "appVersion": "3.0.0",
+            "appImage": "https://s1.ax1x.com/2020/07/16/UDgeKg.png",
+            "appPlist": "https://gbox.lanzous.com/iNsFFennwbi",
+            "appDescription": "GameCube, Wii模拟器(必须越狱，无须签名直接安装)"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2019-12-12T10:00:00+0800",
+            "appName": "PPSSPP",
+            "appVersion": "1.6.3",
+            "appImage": "https://s1.ax1x.com/2020/05/18/YWwBNj.png",
+            "appPlist":"https://gbox.lanzous.com/i7ys8da",
+            "appDescription": "PSP模拟器"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-04-20T18:00:00+0800",
+            "appName": "iNDS",
+            "appVersion": "1.10.7",
+            "appImage": "https://s1.ax1x.com/2020/04/20/JljV9x.png",
+            "appPlist":"https://gbox.lanzous.com/ibnbglc",
+            "appDescription": "NDS模拟器"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2019-12-12T10:00:00+0800",
+            "appName": "Delta",
+            "appVersion": "1.1.1",
+            "appImage": "https://s1.ax1x.com/2020/05/18/YWwT81.png",
+            "appPlist":"https://gbox.lanzous.com/i7yrzad",
+            "appDescription": "支持GBA, GBC, N64, SNES, NES, Sega等模拟器"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-02-22T16:10:00+0800",
+            "appName": "吉里吉里",
+            "appVersion": "1.2.6",
+            "appImage": "https://s2.ax1x.com/2020/02/22/3MLXVI.png",
+            "appPlist": "https://gbox.lanzous.com/i9ksypg",
+            "appDescription": "吉里吉里(KrKr)模拟器"
+        }
+    ]
+}
